@@ -1,5 +1,8 @@
 
 # Exercícios
+
+<html>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <body>
 <ol>
   <li>Coletar o valor do lado de um quadrado, calcular sua área e apresentar o resultado.</li>
@@ -84,3 +87,4 @@
   <li>Receba 2 números inteiros. Verifique e mostre todos os números primos existentes entre eles. .</i>
 </ol>
 </body>
+</html>
